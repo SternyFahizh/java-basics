@@ -85,7 +85,7 @@
     * Added utility `jdeps` for analyzing .class files.
 
 <div align="right">
-    <b><a href="#related-topics">↥ back to top</a></b>
+    <b><a href="#related-topics">back to top</a></b>
 </div>
 
 ## Q. What is Nashorn?
